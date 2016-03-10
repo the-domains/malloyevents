@@ -1,0 +1,28 @@
+name: MalloyEvents
+favicon: null
+layout_spectrum: 0.15923174167983234
+typography_spectrum: 0.6700326276477426
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.47858870797790587
+  lightness: 0.21813373756594956
+  saturation: 0.9204190601594746
+  rhythmicContrast: 0.7156027355231345
+purpose: []
