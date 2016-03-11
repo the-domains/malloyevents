@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MalloyEvents]]></title>
-        <description><![CDATA[MalloyEvents]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Custom Events.  Design.Plan. Execute]]></title>
+        <description><![CDATA[Custom Events.  Design.Plan. Execute]]></description>
+        <link>https://thegrid.ai/malloyevents/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 14:29:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 02:47:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/malloyevents/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Political ]]></title>
+            <description><![CDATA[<article><h1>Political </h1><p>Political </p></article>]]></description>
+            <link>https://thegrid.ai/malloyevents/political/index.html</link>
+            <guid isPermaLink="false">1ca306ec-35d7-4852-8f84-36de5d77b3ff</guid>
+            <pubDate>Fri, 11 Mar 2016 02:47:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Custom Event Design & Production]]></title>
             <description><![CDATA[<article><h1>Custom Event Design & Production</h1><p>Custom Event Production</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f59d73e77e2b9ece917fe3f198a8cf55e54332b.jpg"></article>]]></description>
-            <link>undefinedcustom-event-design-and-production/index.html</link>
+            <link>https://thegrid.ai/malloyevents/custom-event-design-and-production/index.html</link>
             <guid isPermaLink="false">756e7322-d1e5-41f6-942c-cd9e57dd10fe</guid>
             <pubDate>Thu, 10 Mar 2016 14:29:15 GMT</pubDate>
         </item>
